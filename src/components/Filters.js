@@ -9,7 +9,7 @@ function Filters(props) {
       <input
         type="text"
         value={search}
-        onChange={onSearchChange} // Handles search input changes
+        onChange={onSearchChange} 
       />
 
       {/* INSTRUCTION: Add a select field for filtering by type */}
